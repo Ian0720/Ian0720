@@ -21,7 +21,7 @@
 <div align=center>
   
 ### Machine Learning Engineer 
- I'm currently learning about A.I(Deep-Learning)<br/>
+ I'm currently learning about A.I(Machine-Learning & Deep-Learning)<br/>
  also keep try to make my own  
 
 ### Interest
