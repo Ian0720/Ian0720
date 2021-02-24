@@ -1,12 +1,14 @@
 ## How Greeting everyone! eheheheheh 😁 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Ian0720)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Ian0720)](https://github.com/anuraghazra/github-readme-stats)<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ian0720&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <div align=center>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FIan0720)]
 
 </div>
+
 
 ### Machine Learning Engineer 
 - I'm currently learning about A.I(Deep-Learning)
