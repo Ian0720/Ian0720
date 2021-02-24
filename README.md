@@ -21,11 +21,11 @@
 <div align=center>
   
 ### Machine Learning Engineer 
- I'm currently learning about A.I(Deep-Learning)
+ I'm currently learning about A.I(Deep-Learning)<br/>
  also keep try to make my own  
 
 ### Interest
- Javascript, Python, CSS, Node.js (4 languages)
+ Javascript, Python, CSS, Node.js (4 languages)<br/>
  workouts & look for Famous Restaurant & Play Mobile Games & Martial Arts
 
 </div>
