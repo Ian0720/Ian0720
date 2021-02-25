@@ -25,10 +25,14 @@
  also keep try to make my own  
 
 ### Interest
- Javascript, Python, CSS, Node.js (4 languages)<br/>
  workouts & look for Famous Restaurant & Play Mobile Games & Martial Arts<br/>
  NLP(Natural Language Processing), BERT(GPT-2, GPT-3)<br/>
  Can understand international papers (Can speak Korean & English), I hope that I can develop my own capabilities! 😄
+ 
+### Languages
+- Language : HTML, JavaScript, CSS, Python
+- Framework : Node.js, Tensorflow(keras, pandas, numpy, scikit-learn, matplotlib, cv2 etc...)
+- Tools : Github(Can use Git Bash)
 
 </div>
 
