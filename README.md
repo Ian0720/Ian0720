@@ -26,7 +26,7 @@
 
 ### Interest
  workouts & look for Famous Restaurant & Play Mobile Games & Martial Arts<br/>
- NLP(Natural Language Processing), BERT(GPT-2, GPT-3)<br/>
+ NLP(Natural Language Processing), NLU(Natural Language Understanding), BERT(GPT-2, GPT-3)<br/>
  Can understand international papers (Can speak Korean & English), I hope that I can develop my own capabilities! 😄
  
 ### Languages
