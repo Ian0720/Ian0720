@@ -31,7 +31,7 @@
  
 ### Languages
 - Language : HTML, JavaScript, CSS, Python, C++
-- Framework : Node.js, Tensorflow(keras, pandas, numpy, scikit-learn, matplotlib, cv2 etc...)
+- Framework : Node.js, Tensorflow, keras, pandas, numpy, scikit-learn, matplotlib, cv2(OpenCV) etc...
 - Tools : Github(Can use Git Bash)
 
 </div>
