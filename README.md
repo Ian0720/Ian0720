@@ -30,7 +30,7 @@
  Can understand international papers (Can speak Korean & English), I hope that I can develop my own capabilities! 😄
  
 ### Languages
-- Language : HTML, JavaScript, CSS, Python
+- Language : HTML, JavaScript, CSS, Python, C++
 - Framework : Node.js, Tensorflow(keras, pandas, numpy, scikit-learn, matplotlib, cv2 etc...)
 - Tools : Github(Can use Git Bash)
 
