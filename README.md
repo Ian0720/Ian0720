@@ -20,7 +20,7 @@
 
 <div align=center>
   
-### Machine Learning Engineer 
+### Machine Learning, Deep Learning, System Engineering, Developments 
  I'm currently learning about A.I(Machine-Learning & Deep-Learning)<br/>
  also keep try to make my own  
 
