@@ -14,7 +14,7 @@
 
 <div align=center>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fel._.fin3)]
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FIan0720)]
 
 </div>
 
@@ -38,7 +38,7 @@
 
 <div align=center>
 
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/t3d._.x.x/)](https://www.instagram.com/t3d._.x.x/) 
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/el._.fin3/)](https://www.instagram.com/t3d._.x.x/) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aoa8538@gmail.com)](mailto:aoa8538@gmail.com)
 </div>
 
