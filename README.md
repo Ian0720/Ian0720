@@ -38,7 +38,7 @@
 
 <div align=center>
 
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/hate_blame/)](https://www.instagram.com/hate_blame/) 
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/hyun._.244/)](https://www.instagram.com/hyun._.244/) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aoa8538@gmail.com)](mailto:aoa8538@gmail.com)
 </div>
 
